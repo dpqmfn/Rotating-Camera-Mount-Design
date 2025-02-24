@@ -23,3 +23,6 @@ This design was created with both precision and simplicity in mind. The camera p
 
 License
 This project is licensed under the MIT License, enabling both personal and commercial use.
+
+#3DPrinting #CADDesign #MobileRobots #RobotTracking #SLAM #Realsense #Dynamixel #Camera #Onshape #Robotics #AI
+
