@@ -1,5 +1,5 @@
-# Rotating-Camera-Mount-Design
-A simple 3D Printable CAD Design for Mobile Robot Tracking System (Realsense D455 Camera &amp; Dynamixel XM430-W210-T Actuator)
+# 360-Degree-Rotating-Camera-Mount-Design 
+A simple 3D Printable CAD Design for Mobile Robot Tracking System (Realsense D455 Camera &amp; Dynamixel XM430-W210-T Actuator) for 2D Human & Object Tracking Mobile Robots
 
 This project features a simple and practical 3D printable CAD design for a mobile robot camera tracking system. It combines the Intel RealSense D455 camera with the Dynamixel XM430-W210-T servo motor, providing a flexible and adjustable solution for applications like object tracking and SLAM (Simultaneous Localization and Mapping).
 
